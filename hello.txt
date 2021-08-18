@@ -1,0 +1,3 @@
+Hello
+You have just opened hello.txt
+Hope you have great day
